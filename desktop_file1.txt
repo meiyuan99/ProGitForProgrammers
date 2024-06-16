@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 add line1 from CommanLine
 add line2 from Desktop
+=======
+add line1 from CommandLine
+>>>>>>> Stashed changes
